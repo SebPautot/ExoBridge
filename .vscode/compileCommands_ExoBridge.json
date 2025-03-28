@@ -1,0 +1,106 @@
+[
+	{
+		"file": "C:\\Users\\spaut\\Documents\\Unreal Projects\\ExoBridge\\Source\\ExoBridge\\ExoBridge.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\spaut\\Documents\\Unreal Projects\\ExoBridge\\.vscode\\compileCommands_ExoBridge\\ExoBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\spaut\\Documents\\Unreal Projects\\ExoBridge\\Source\\ExoBridge\\ExoBridge.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\spaut\\Documents\\Unreal Projects\\ExoBridge\\.vscode\\compileCommands_ExoBridge\\ExoBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\spaut\\Documents\\Unreal Projects\\ExoBridge\\Source\\ExoBridge\\ExoBridge.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\spaut\\Documents\\Unreal Projects\\ExoBridge\\.vscode\\compileCommands_ExoBridge\\ExoBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\spaut\\Documents\\Unreal Projects\\ExoBridge\\Source\\ExoBridge\\ExoBridgeCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\spaut\\Documents\\Unreal Projects\\ExoBridge\\.vscode\\compileCommands_ExoBridge\\ExoBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\spaut\\Documents\\Unreal Projects\\ExoBridge\\Source\\ExoBridge\\ExoBridgeCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\spaut\\Documents\\Unreal Projects\\ExoBridge\\.vscode\\compileCommands_ExoBridge\\ExoBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\spaut\\Documents\\Unreal Projects\\ExoBridge\\Source\\ExoBridge\\ExoBridgeGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\spaut\\Documents\\Unreal Projects\\ExoBridge\\.vscode\\compileCommands_ExoBridge\\ExoBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\spaut\\Documents\\Unreal Projects\\ExoBridge\\Source\\ExoBridge\\ExoBridgeGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\spaut\\Documents\\Unreal Projects\\ExoBridge\\.vscode\\compileCommands_ExoBridge\\ExoBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\spaut\\Documents\\Unreal Projects\\ExoBridge\\Source\\ExoBridge\\Private\\Beam.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\spaut\\Documents\\Unreal Projects\\ExoBridge\\.vscode\\compileCommands_ExoBridge\\ExoBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\spaut\\Documents\\Unreal Projects\\ExoBridge\\Source\\ExoBridge\\Private\\MyPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\spaut\\Documents\\Unreal Projects\\ExoBridge\\.vscode\\compileCommands_ExoBridge\\ExoBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\spaut\\Documents\\Unreal Projects\\ExoBridge\\Source\\ExoBridge\\Private\\Pin.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\spaut\\Documents\\Unreal Projects\\ExoBridge\\.vscode\\compileCommands_ExoBridge\\ExoBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\spaut\\Documents\\Unreal Projects\\ExoBridge\\Source\\ExoBridge\\Public\\Beam.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\spaut\\Documents\\Unreal Projects\\ExoBridge\\.vscode\\compileCommands_ExoBridge\\ExoBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\spaut\\Documents\\Unreal Projects\\ExoBridge\\Source\\ExoBridge\\Public\\MyPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\spaut\\Documents\\Unreal Projects\\ExoBridge\\.vscode\\compileCommands_ExoBridge\\ExoBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\spaut\\Documents\\Unreal Projects\\ExoBridge\\Source\\ExoBridge\\Public\\Pin.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\spaut\\Documents\\Unreal Projects\\ExoBridge\\.vscode\\compileCommands_ExoBridge\\ExoBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	}
+]
